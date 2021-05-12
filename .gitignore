@@ -1,0 +1,7 @@
+/.idea/
+/FixWorkshopExport/bin
+/FixWorkshopExport/node_modules
+/FixWorkshopExport/obj
+/FixWorkshopExport/Release
+*.zip
+*.user

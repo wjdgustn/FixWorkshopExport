@@ -1,0 +1,9 @@
+{
+  "Id": "FixWorkshopExport",
+  "DisplayName": "FixWorkshopExport",
+  "Author": "HYONSU",
+  "Version": "0.0.1",
+  "AssemblyName": "FixWorkshopExport.dll",
+  "EntryMethod": "FixWorkshopExport.Main.Load",
+  "Repository": ""
+}
